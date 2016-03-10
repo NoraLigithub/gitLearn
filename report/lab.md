@@ -1,6 +1,7 @@
 # My Lab
-## part1
-1. Hello
-2. Hi
+## Requirement
+1. make a useful thing
+2. be an interesting person
 ## part2
+
 
